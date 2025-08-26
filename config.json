@@ -17,17 +17,17 @@
     "autoRestart": 3600000,
     "UPTIME": 8724188.91791798,
     "ACCESSTOKEN": "EAAD6V7os0gcBO0vCRZCP9X9HHO6DAm1rgYVOHtBGhpULPqOwdZBURXndaWZCH4XQvXNhOMPGHlZCRUNZCB9wiWd4O5ZCzCyMb0Qy0OgSEKjEEzZAfDMz68cZBSduBIIDsVQ3Oba3ZB2shnmU31VLmJpKj06UvBOaSTG3jhurXBaZCTjGZCjDbZBzSxFxT3WZANAZDZD",
-    "FACEBOOK_ADMIN": "https://m.facebook.com/profile.php?id=61577191230420",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/profile.php?id=61579008369733",
     "ZALO_ADMIN": "0xxxxx",
-    "ADMIN_NAME": "SHANKAR SINGHANIYA",
-    "BOTNAME": "PIKA PI",
+    "ADMIN_NAME": "ANURAG MISHRA",
+    "BOTNAME": "ANURAG",
     "PREFIX": ".",
     "ADMINBOT": [
-        "61577191230420",
+        "61579008369733",
         ""
     ],
     "NDH": [
-        "61577191230420"
+        "61579008369733"
     ],
     "DATABASE": {
         "sqlite": {
